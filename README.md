@@ -33,8 +33,8 @@ I enjoy the craft of moving data from point A to point B reliably, efficiently, 
 - 📚 Currently enrolled in **[Data Engineering Zoomcamp 2026](https://github.com/DataTalksClub/data-engineering-zoomcamp)** by DataTalks.Club — working through real-world DE concepts end to end
 - ✅ Completed a **SQL Data Warehouse** project using the **Medallion Architecture** (Bronze → Silver → Gold), guided by Baraa Khatib — and I'm planning to rebuild it on **Databricks** next
 - Building ETL/ELT pipelines with **Python**
-- Getting hands-on with **cloud data services** (S3, BigQuery, and friends)
-- Learning container-based deployments with **Docker & Kubernetes**
+- Getting hands-on with **cloud data services** (GCS, BigQuery, and friends)
+- Learning container-based deployments with **Docker & Terraform**
 
 ---
 
